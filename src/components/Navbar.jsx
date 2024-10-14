@@ -43,7 +43,7 @@ function Navbar() {
           >
             <li>
               <NavLink
-                to="/alumni/directory"
+                to="/directory"
                 className="block px-4 py-2 text-gray-800 hover:bg-gray-100 hover:text-blue-500"
               >
                 <FaBook className="mr-2 text-blue-500" />
@@ -52,7 +52,7 @@ function Navbar() {
             </li>
             <li>
               <NavLink
-                to="/alumni/yearbook"
+                to="/yearbook"
                 className="block px-4 py-2 text-gray-800 hover:bg-gray-100 hover:text-blue-500"
               >
                 <FaBook className="mr-2 text-blue-500" />
